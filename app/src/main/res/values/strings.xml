@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">SpinnerDemo</string>
+    
+    
+    
+    <string-array name="district_names">
+        <item>Barguna</item>
+        <item>Barisal</item>
+        <item>Bhola</item>
+        <item>Jhalokati</item>
+        <item>Patuakhali</item>
+        <item>Pirojpur</item>
+        <item>Bandarban	</item>
+        <item>Brahmanbaria</item>
+        <item>Chandpur</item>
+        <item>Chittagong</item>
+        <item>Comilla</item>
+        <item>Feni</item>
+        <item>Khagrachhari</item>
+        <item>Lakshmipur</item>
+        <item>Noakhali</item>
+        <item>Rangamati</item>
+        <item>Dhaka</item>
+        <item>Faridpur</item>
+        <item>Gazipur</item>
+        <item>Gopalganj</item>
+        <item>Kishoreganj</item>
+    </string-array>
+</resources>
